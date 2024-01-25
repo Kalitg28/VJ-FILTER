@@ -1,13 +1,16 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ɴᴀɴʙʜᴀ ᴀɴᴅ ɴᴀɴʙɪꜱ ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a>,【ɪᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ+└ᴀᴡᴇꜱᴏᴍᴇ ꜰɪʟᴛᴇʀ┘+├ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ┤+☞ᴍᴀɴᴜᴀʟ ꜰɪᴛᴇʀ☜ ᴀɴᴅ ᢵᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ</b>"""
+    START_TXT = """<b>Hᴇʟʟᴏ {},ɴᴀɴʙʜᴀ ᴀɴᴅ ɴᴀɴʙɪꜱ ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a>, ɪ  ᴄᴀɴ  ᴘʀᴏᴠɪᴅᴇ  ᴍᴏᴠɪᴇs  ᴀɴᴅ  sᴇʀɪᴇs,
+ᴊᴜsᴛ  ᴀᴅᴅ  ᴍᴇ  ᴛᴏ  ʏᴏᴜʀ  ɢʀᴏᴜᴘ  ᴀɴᴅ  ᴇɴᴊᴏʏ  😍
+
+💞 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : @Kali_TG</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Tamilmoviesrio2_bot>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Kali_TG>𝐊𝐚𝐥𝐢🕊️ ⃟⃟⃝⃪⃟⃝🦋─⃛͢</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/its_me_TG'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Kalitgadmin_Bot'>𝐊𝐚𝐥𝐢🕊️ ⃟⃟⃝⃪⃟⃝🦋─⃛͢</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -15,14 +18,12 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>Hᴇʏ, Tʜɪs ʙᴏᴛ ɪs ᴀ ɴᴏᴛ  Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ ɪᴛ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
+👀 Bᴜᴛ, Dᴏɴ'ᴛ ᴡᴏʀʀʏ ʙʀᴏ I ᴄʀᴇᴀᴛᴇ ʙᴏᴛ ꜰᴏʀ ʏᴏᴜ ᴊᴜꜱᴛ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ Aɴᴅ Pᴀʏ Mᴏɴᴇʏ 200Rꜱ Mᴏɴᴛʜʟʏ💸
 
-Where is source code? - <a href='https://t.me/Teamrioupdates2/3'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
-
-
-Developer - <a href='https://t.me/creatorrio'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://t.me/Kalitgadmin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+</b>"""
 
 
 
@@ -45,7 +46,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Teamrioupdates2/3)</code>
+<code>[Button Text](buttonurl:https://t.me/TamilRockerz_TR)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -74,9 +75,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/creatorrio>☢RIO NETWORKS☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Kalitgadmin_Bot>☢𝐊𝐚𝐥𝐢🕊️ ⃟⃟⃝⃪⃟⃝🦋─⃛͢☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/Teamrioupdates>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/TamilRockerz_TR>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -164,7 +165,20 @@ Nᴀᴍᴇ - {}"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
+    MELCOW_ENG = """<b>
+👋 Hᴇʟʟᴏ {}
+
+📿 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ɢʀᴏᴜᴘ 
+
+🚬 ᴛʜɪs ɪs ᴀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ
+
+⏳ ᴀʟʟ ᴄᴀᴛᴇɢᴏʀɪᴇs ᴏꜰ ᴍᴏᴠɪᴇs ᴀᴠᴀɪʟᴀʙʟᴇ ʜᴇʀᴇ
+
+🧨 ᴊᴜsᴛ ᴛʏᴘᴇ ᴛʜᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ
+
+🤖 ʙᴏᴛ ᴡɪʟʟ sᴇɴᴅ ʏᴏᴜʀ ᴍᴏᴠɪᴇ
+
+☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     SHORTLINK_INFO = """
 🫵 Select Your Language And Earn Money 💰"""
@@ -184,7 +198,21 @@ SERIES ➢ Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
 Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛᴏɴ ᴀɴᴅ Cʟɪᴄᴋ "Sᴇɴᴅ Aʟʟ" Tᴏ ɢᴇᴛ Aʟʟ Fɪʟᴇ Lɪɴᴋs ɪɴ ᴀ Sɪɴɢʟᴇ ᴄʟɪᴄᴋ"""
 
     SINFO = """
-🫣 Movie Venumna Join Panni Try Again Buttana Click Pannu😅"""
+𝙀𝙉𝙂𝙇𝙄𝙎𝙃
+if the group got copyright and deleted, then after new group started, it will be notified through the channel that you are gonna join now🤥
+𝙈𝘼𝙇𝘼𝙔𝘼𝙇𝘼𝙈
+അഥവാ ഗ്രൂപ്പ് കോപ്പി റൈറ്റ് കിട്ടി പോയാൽ പുതിയ ഗ്രൂപ്പ് തുടങ്ങുമ്പോൾ ഇപ്പോൾ ജേയിൽ ആകുന്ന ചാനൽ വഴി ആയിരിക്കും അറിയിക്കുന്നത് 🤥
+𝙏𝘼𝙈𝙄𝙇
+குழுவின் நகல் உரிமை இழக்கப்பட்டால், புதிய குழு தொடங்கும் போது, இப்போது சேரும் சேனல் மூலம் தெரிவிக்கப்படும்🤥
+𝙃𝙄𝙉𝘿𝙄
+अगर ग्रुप कॉपी राइट खो जाता है, तो जब कोई नया ग्रुप शुरू होता है, तो उसे उस चैनल के माध्यम से सूचित किया जाएगा जो अभी Join🤥 है
+𝙏𝙀𝙇𝙐𝙂𝙐
+గ్రూప్ కాపీ రైట్ పోయినట్లయితే, కొత్త గ్రూప్ ప్రారంభించినప్పుడు, ఇప్పుడు జాయిన్ అయిన ఛానెల్ ద్వారా తెలియజేయబడుతుంది🤥
+𝙆𝘼𝙉𝙉𝘼𝘿𝘼
+ಗ್ರೂಪ್ ಕಾಪಿ ರೈಟ್ ಕಳೆದು ಹೋದರೆ, ಹೊಸ ಗ್ರೂಪ್ ಶುರುವಾದಾಗ, ಈಗ Join ಆಗಿರುವ ಚಾನಲ್ ಮೂಲಕ ತಿಳಿಸಲಾಗುತ್ತದೆ🤥
+𝙂𝙐𝙅𝘼𝙍𝘼𝙏𝙄
+જો ગ્રૂપ કોપી રાઈટ ખોવાઈ જાય, જ્યારે નવું ગ્રૂપ શરૂ થાય, ત્યારે તે ચેનલ દ્વારા સૂચિત કરવામાં આવશે જે હવે જોડાઈ છે🤥
+           🤘 Tʜᴀɴᴋ Fᴏʀ Rᴇᴀᴅɪɴɢ 🤘"""
 
     NORSLTS = """ 
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -197,26 +225,20 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> 💾Size: {file_size}
+
+➥ 𝗝𝗼𝗶𝗻 ➼ @TamilRockerz_TR</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
 IMDb Data:
 
-<b>🏷 Title</b>: <a href={url}>{title}</a>
+<b><b>🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-☀️ Languages : <code>{languages}</code>
-📀 RunTime: {runtime} Minutes
-📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
-
-
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
-
-Requested by : {message.from_user.mention}</b>"""
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
+📥 Upload : @TamilRockerz_TR</b></b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
